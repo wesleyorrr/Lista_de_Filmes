@@ -13,3 +13,6 @@ data class Movie(
     @SerializedName("data_lancamento")
     val dataLancamento: String?
 ): Parcelable
+
+
+//Wesley de Oliveira
