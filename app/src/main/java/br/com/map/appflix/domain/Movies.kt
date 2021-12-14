@@ -15,4 +15,3 @@ data class Movie(
 ): Parcelable
 
 
-//Wesley de Oliveira
