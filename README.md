@@ -9,6 +9,6 @@
 - [x] [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
-<img src="/filmes_flix.png" width="300" />
+<img src="https://github.com/wesleyorrr/AppFlix/blob/master/app/src/main/res/drawable/imagem 13.jpg" width="300" />
 
 
